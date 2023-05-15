@@ -22,4 +22,3 @@ arraycontenedores1.map(cosasdentrodelarray => {
         cosasdentrodelarray.appendChild(parrafo);
     });
 });
-
