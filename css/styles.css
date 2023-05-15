@@ -1,0 +1,38 @@
+body {
+    background-color:orangered  ;
+}
+
+.cuadrados {
+    display: flex;
+    justify-content: center;
+    margin-top: 15em;
+}
+
+
+.contenedor {
+    height: 15em;
+    width: 15em;
+    background-color: black;
+    margin: 2em;
+    display: flex;
+
+}
+
+.contenedor1 {
+    height: 15em;
+    width: 15em;
+    background-color: white;
+    margin: 2em;
+}    
+
+.tuano {
+    border-radius: 50%;
+    transition: 0.5s;
+}
+
+.tuano1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
