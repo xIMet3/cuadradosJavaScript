@@ -25,12 +25,12 @@ body {
     margin: 2em;
 }    
 
-.tuano {
+.cuadradosNegros {
     border-radius: 50%;
     transition: 0.5s;
 }
 
-.tuano1 {
+.cuandradosBlancos {
     display: flex;
     align-items: center;
     justify-content: center;
